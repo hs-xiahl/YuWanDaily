@@ -27,6 +27,8 @@
 * 017 [朱子读书法·为什么不要急着读《易经》？](https://mp.weixin.qq.com/s/ilMJBH9f9iwRQRu5oSWFWg)
 * 018 [朱子读书法·循序渐进，温故知新](https://mp.weixin.qq.com/s/rbv_lrKkHJY307AgizSsZg)
 * 019 [朱子读书法·不必在繁琐处浪费时间](https://mp.weixin.qq.com/s/xXq6VVkCj9GyJbp0xdBQkQ)
+* 020 [朱子读书法·读书如蓄水](https://mp.weixin.qq.com/s/wTFJAEWmZkh7ML-wr6n4fA)
+* 021 [朱子读书法·史书阅读指南](https://mp.weixin.qq.com/s/RbG-XLwvYA37DhSVVjzs8Q)
 
 ## 公众号
 

@@ -29,6 +29,8 @@
 * 019 [朱子读书法·不必在繁琐处浪费时间](https://mp.weixin.qq.com/s/xXq6VVkCj9GyJbp0xdBQkQ)
 * 020 [朱子读书法·读书如蓄水](https://mp.weixin.qq.com/s/wTFJAEWmZkh7ML-wr6n4fA)
 * 021 [朱子读书法·史书阅读指南](https://mp.weixin.qq.com/s/RbG-XLwvYA37DhSVVjzs8Q)
+* 022 [朱子读书法·不在多，在于透](https://mp.weixin.qq.com/s/f3vQZj74DUD_eaROglV6HQ)
+* 023 [朱子读书法·读书之道](https://mp.weixin.qq.com/s/DZ9ouSZNa3wxwpIc8aOvCQ)
 
 ## 公众号
 

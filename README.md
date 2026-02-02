@@ -31,8 +31,8 @@
 * 021 [朱子读书法·史书阅读指南](https://mp.weixin.qq.com/s/RbG-XLwvYA37DhSVVjzs8Q)
 * 022 [朱子读书法·不在多，在于透](https://mp.weixin.qq.com/s/f3vQZj74DUD_eaROglV6HQ)
 * 023 [朱子读书法·读书之道](https://mp.weixin.qq.com/s/DZ9ouSZNa3wxwpIc8aOvCQ)
-* 024 [朱子读书法·扎根与贯通](https://mp.weixin.qq.com/s/qjpiK6Ei6zk8zUbCJymUEQ) (2026-01-31)
-* 025 [朱子读书法·专一精读](https://mp.weixin.qq.com/s/iUi9ptoC775l4RIM_109gQ)
+* 024 [朱子读书法·扎根与贯通](https://mp.weixin.qq.com/s/qjpiK6Ei6zk8zUbCJymUEQ)
+* 025 [朱子读书法·专一精读](https://mp.weixin.qq.com/s/iUi9ptoC775l4RIM_109gQ) (2026-01-31)
 * 026 [朱子读书法·逐句细读，专注不乱](https://mp.weixin.qq.com/s/7Duvcgy7Wzft24YSyomSuA)
 
 ## 公众号

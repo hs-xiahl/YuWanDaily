@@ -34,6 +34,8 @@
 * 024 [朱子读书法·扎根与贯通](https://mp.weixin.qq.com/s/qjpiK6Ei6zk8zUbCJymUEQ)
 * 025 [朱子读书法·专一精读](https://mp.weixin.qq.com/s/iUi9ptoC775l4RIM_109gQ) (2026-01-31)
 * 026 [朱子读书法·逐句细读，专注不乱](https://mp.weixin.qq.com/s/7Duvcgy7Wzft24YSyomSuA)
+* 027 [朱子读书法·须专一，心才能纯](https://mp.weixin.qq.com/s/AGYtYkvQpx8DG_mQNELX6A)
+* 028 [朱子读书法·读书如灌园](https://mp.weixin.qq.com/s/Rx2QKjs4rak13B2xS9y0Ww)
 
 ## 公众号
 

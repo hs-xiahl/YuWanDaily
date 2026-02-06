@@ -37,6 +37,7 @@
 * 027 [朱子读书法·须专一，心才能纯](https://mp.weixin.qq.com/s/AGYtYkvQpx8DG_mQNELX6A)
 * 028 [朱子读书法·读书如灌园](https://mp.weixin.qq.com/s/Rx2QKjs4rak13B2xS9y0Ww)
 * 029 [朱子读书法·读书如吃饭，急不得](https://mp.weixin.qq.com/s/PFM0-0x35mFleBqCM-5pXA)
+* 030 [朱子读书法·读书如耕草，慢工出细活](https://mp.weixin.qq.com/s/CchuDA3NwCbBJUeo_Aueww)
 
 ## 公众号
 

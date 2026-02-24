@@ -7,7 +7,7 @@
 
 ## 朱子读书法(2026-01-07)
 
-* 001 [朱子读书法·卷一·纲领](https://mp.weixin.qq.com/s/2Yigk42fNd4Ejt_si1b6JA)
+* 001 [朱子读书法·卷一·纲领](https://mp.weixin.qq.com/s/NbfcqHexHE8oDOv6OXSSDw)
 * 002 [朱子读书法·论读书与治学之道](https://mp.weixin.qq.com/s/CO29KOwydLZAc-LTFuzEpQ)
 * 003 [朱子读书法·内外兼修](https://mp.weixin.qq.com/s/S7BebP5Qlvl9nX_EJev7lA)
 * 004 [朱子读书法·读书不是为了炫耀，而是为了安顿这颗心
@@ -38,6 +38,25 @@
 * 028 [朱子读书法·读书如灌园](https://mp.weixin.qq.com/s/Rx2QKjs4rak13B2xS9y0Ww)
 * 029 [朱子读书法·读书如吃饭，急不得](https://mp.weixin.qq.com/s/PFM0-0x35mFleBqCM-5pXA)
 * 030 [朱子读书法·读书如耕草，慢工出细活](https://mp.weixin.qq.com/s/CchuDA3NwCbBJUeo_Aueww)
+* 031 [朱子读书法·卷一·熟读精思](https://mp.weixin.qq.com/s/9ifvpw5cxiq1D2cG4XW9jQ)
+* 032 [朱子读书法·笨鸟先飞](https://mp.weixin.qq.com/s/8S5B05YFGgvbXhQTeTE1kQ)
+* 033 [朱子读书法·读书没读懂？因为你还没读熟](https://mp.weixin.qq.com/s/7nkgmhRQRpDSrOeH4GLTmQ)
+* 034 [朱子读书法·一字当百字，你真的读懂了吗](https://mp.weixin.qq.com/s/TojVN9Hq-OXbJNXUUCyXNg)
+* 035 [朱子读书法·慢下来,才能走得远](https://mp.weixin.qq.com/s/hEDGjCEKwgI8HPrhCx1MIg)
+* 036 [朱子读书法·学而时习之](https://mp.weixin.qq.com/s/uc5TOv8ZGZFOy9ybZwZB2Q)
+* 037 [朱子读书法·别无方法，只要熟读](https://mp.weixin.qq.com/s/OFH9sSKhKd9pYFhq6GY1EA)
+* 038 [朱子读书法·读书不入心，等于没读过](https://mp.weixin.qq.com/s/M9TnpvdCG09iu3-9uKnmqw)
+* 039 [朱子读书法·读书要找正意，但别读死了](https://mp.weixin.qq.com/s/iE2DH4WI-rufX9prKNncJA)
+* 040 [朱子读书法·用功，要用到「猛滚一番」](https://mp.weixin.qq.com/s/EWEeexq6HRbBsF7lrvjfsQ)
+* 041 [朱子读书法·读书，要像酷吏用法一样狠](https://mp.weixin.qq.com/s/70rrp5x8eR--VzLErp-0bA)
+* 042 [朱子读书法·勘出细节，反复思量](https://mp.weixin.qq.com/s/qYk7anWCnG8nrIU89c3VWQ)
+* 043 [朱子读书法·去尽皮，见肉；去尽肉，见骨](https://mp.weixin.qq.com/s/aHxN7VOuP2qnwA5lNGj11A)
+* 044 [朱子读书法·读书三境界：无疑-有疑-无疑](https://mp.weixin.qq.com/s/e9fP0-gwu3b-BBbmq9CKeA)
+* 045 [朱子读书法·群疑并兴，寝食俱废](https://mp.weixin.qq.com/s/sJs5ErybQl5IHnLCjCeD-A)
+* 046 [朱子读书法·比较诸家，以理为主](https://mp.weixin.qq.com/s/TTgXGeE6iZ3kwNmqm2lcQQ)
+* 047 [朱子读书法·横看直看，四通八达](https://mp.weixin.qq.com/s/znSyubbTZKvtd0DcusQNCg)
+* 048 [朱子读书法·一字未安，彻夜不眠](https://mp.weixin.qq.com/s/NS0Z2JzqVm8eJlioGscWDA)
+* 049 [朱子读书法·空言无实，不济事](https://mp.weixin.qq.com/s/DG7LH-SmWzrTzB6NtyKmnQ)
 
 ## 公众号
 

@@ -58,6 +58,7 @@
 * 048 [朱子读书法·一字未安，彻夜不眠](https://mp.weixin.qq.com/s/NS0Z2JzqVm8eJlioGscWDA)
 * 049 [朱子读书法·空言无实，不济事](https://mp.weixin.qq.com/s/DG7LH-SmWzrTzB6NtyKmnQ)
 * 050 [朱子读书法·烂泥熟之，纵横妙用皆由自家](https://mp.weixin.qq.com/s/ukSzQGYKx6Y2cZKGdek3MA)
+* 051 [朱子读书法·用力愈多，收功愈远](https://mp.weixin.qq.com/s/GuD2xm6RYn8VzIF3dxhvMA)
 
 ## 公众号
 

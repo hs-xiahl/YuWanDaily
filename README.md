@@ -59,6 +59,17 @@
 * 049 [朱子读书法·空言无实，不济事](https://mp.weixin.qq.com/s/DG7LH-SmWzrTzB6NtyKmnQ)
 * 050 [朱子读书法·烂泥熟之，纵横妙用皆由自家](https://mp.weixin.qq.com/s/ukSzQGYKx6Y2cZKGdek3MA)
 * 051 [朱子读书法·用力愈多，收功愈远](https://mp.weixin.qq.com/s/GuD2xm6RYn8VzIF3dxhvMA)
+* 052 [朱子读书法·卷二·虚心涵泳·除却私意，白直晓会](https://mp.weixin.qq.com/s/JdLhqwyHrljGSHGUyui1Eg)
+* 053 [朱子读书法·以意逆志](https://mp.weixin.qq.com/s/IW-4PK1LmFyKsgqCkO6XZw) (2026-02-28)
+* 054 [朱子读书法·惟笃志虚心，反复详玩](https://mp.weixin.qq.com/s/s32L2gnGAn-Zs-8zH2_04Q)
+* 055 [朱子读书法·口诵心得，如诵己言](https://mp.weixin.qq.com/s/j1l9Us6NQLLEMak-ajvBfg)
+* 056 [朱子读书法·六十一岁，方理会得恁地](https://mp.weixin.qq.com/s/E9zf-OWhsu9CsV2jgFDyqQ)
+* 057 [朱子读书法·借圣人言语做起头](https://mp.weixin.qq.com/s/_gweKGZl9OmEebeH6UI6hA)
+* 058 [朱子读书法·切须记得「识认」两字](https://mp.weixin.qq.com/s/QR4dpd4TH6DsDaQt0f9bjQ)
+* 059 [朱子读书法·以圣贤之意观圣贤之书](https://mp.weixin.qq.com/s/JX13ex9kdS3IhihON7KQ3A)
+* 060 [朱子读书法·读书十二则](https://mp.weixin.qq.com/s/KHoDN9-jRcX53VJk7nWVzA)
+* 061 [朱子读书法·宁略无详，宁疏无密](https://mp.weixin.qq.com/s/pVqUuaLfnfxs1cHa6sI9uw)
+* 062 [朱子读书法·不可泥著一字](https://mp.weixin.qq.com/s/lu0wYFyg9z7I1P0UiRsxhA)
 
 ## 公众号
 

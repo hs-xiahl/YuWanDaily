@@ -70,6 +70,12 @@
 * 060 [朱子读书法·读书十二则](https://mp.weixin.qq.com/s/KHoDN9-jRcX53VJk7nWVzA)
 * 061 [朱子读书法·宁略无详，宁疏无密](https://mp.weixin.qq.com/s/pVqUuaLfnfxs1cHa6sI9uw)
 * 062 [朱子读书法·不可泥著一字](https://mp.weixin.qq.com/s/lu0wYFyg9z7I1P0UiRsxhA)
+* 063 [朱子读书法·因登山而明险阻之义](https://mp.weixin.qq.com/s/ebYiveDoT_p38VFtZQ1OQg)
+* 064 [朱子读书法·涵泳，只是子细读书之异名](https://mp.weixin.qq.com/s/XPwZ_0eRS0ATKd4feK0YJg)
+* 065 [朱子读书法·平易从容，万事一理](https://mp.weixin.qq.com/s/S4GaKqqBa7hoVtJYS1cRKw)
+* 066 [朱子读书法·通其所可通，无强通其所难通](https://mp.weixin.qq.com/s/EHYC5FGZFGjIkrEkJ4FHFQ)
+* 067 [朱子读书法·学《诗》之大旨](https://mp.weixin.qq.com/s/riTpHkCEuRXyKk7M-sfQAg)
+* 068 [朱子读书法·平平地涵泳自好](https://mp.weixin.qq.com/s/e166OKVopNcQgSzS7okGuA)
 
 ## 公众号
 

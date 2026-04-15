@@ -77,6 +77,12 @@
 * 067 [朱子读书法·学《诗》之大旨](https://mp.weixin.qq.com/s/riTpHkCEuRXyKk7M-sfQAg)
 * 068 [朱子读书法·平平地涵泳自好](https://mp.weixin.qq.com/s/e166OKVopNcQgSzS7okGuA)
 
+...省略
+
+------------
+
+* [朱子读书法·合集](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzE5MTk2NDE2MA==&action=getalbum&album_id=4334060859141242895#wechat_redirect)
+
 ## 公众号
 
 关注公众号`“宇晚日记”`，加入`读书分享的小圈子`。
